@@ -2,5 +2,12 @@
     <string name="app_name">Beer Adviser</string>
     <string name="find_beer">Find Beer!</string>
     <string name="brands">No beers selected</string>
+    <string-array name="brands">
+        <item>Светлое</item>
+        <item>Тёмное</item>
+        <item>Крепкое</item>
+        <item>Безолкагольное</item>
+
+    </string-array>
 
 </resources>
